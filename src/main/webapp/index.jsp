@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Hello to First Project.. :)</h1>
+	<h1>Hello to 2nd.. :)</h1>
 </body>
 </html>
